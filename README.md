@@ -1,0 +1,1 @@
+I pushed this to github since just found it's unexpectedly well designed from my casual codings. Basically it's just a Chinese Chess with two players in turn.
